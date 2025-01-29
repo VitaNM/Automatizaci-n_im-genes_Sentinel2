@@ -1,11 +1,11 @@
-🌍Automatización de imágenes Sentinel-2 🌍
+Automatización de imágenes Sentinel-2 
 
 ¡Hola! Este proyecto nace desde la necesidad de poder simplificar el manjeo de la información contenida en las imagenes satelitales de la constelacion -Sentinel-.
 Cuando trabajamos con una gran cantidad de datos particularmente en sotware especializados, puede resultar engorroso y complicado, además del tiempo invertido y lo lento que puede ser. 
 En algunos casos necesitamos usar una parte especifica de la inforamción, no su totalidad. Por lo tanto el objetivo de este proyecto es automatizar la extraccion de las carpetas principales, generando una nueva estructura de archivos 
 con la información más relevante, evitando perdida de tiempo. 
 
-¿Por qué está bueno este proyecto? (¡al menos eso creo yo!) 😄
+¿Por qué está bueno este proyecto? (¡al menos eso creo yo!)
 *Ahorramos tiempo
 *Simplificamos los procesos
 *Estructuramos la información según nuestras necesidades.
@@ -51,13 +51,13 @@ QI_DATA\
 Si querés personalizarlo,  ajusta o modifica las variables en el script
 Si necesitas otra información solo se modifican algunas variables y listo!
 
-¡Todas las sugerenicas y las contribuciones son muy bienvenidas!🚀
+¡Todas las sugerenicas y las contribuciones son muy bienvenidas!
 
 Recorda hacer:
 -Un fork del repositorio 
 -Create una rama con tu contribución
 -Hace un pull request para revisar los cambios!
 
-¡Espero que tambien sea útil para ustedes!😊🚀
+¡Espero que tambien sea útil para ustedes!
 
 Este proyecto está bajo la licencia MIT. 
